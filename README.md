@@ -12,9 +12,9 @@ They have scaled quicker than anticipated and need the help of an advisory firm 
  - January 2021 was the month with the most posts (1708 posts).
    
 ## Objective:  
-### Accenture is running a 3-month initial project to start the engagement with Social Buzz. They are expecting the following:
+To start the engagement with Social Buzz, Accenture is running a 3-month initial project. They are expecting the following:
   - An analysis of their content categories that highlight the top 5 categories with the largest aggregate popularity.
-  - An audit of their big data practice. 
+  - An audit of their big-data practice. 
   - Recommendations for a successful IPO.
               
 ## Identified Problem:
