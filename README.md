@@ -1,4 +1,4 @@
-# Data-Analysis-for-a-Social-Media-App
+# Data Analysis for a Social-Media App Using Advanced Excel
 ### This was an Accenture Virtual Internship provided by Forage
 
 <img width="260" alt="image" src="https://github.com/PKatre17/Data-Analysis-for-a-Social-Media-App/assets/97483777/4d8f0521-95ba-4147-847f-780b95f6e773"><img width="260" alt="image" src="https://github.com/PKatre17/Data-Analysis-for-a-Social-Media-App/assets/97483777/0201651f-35a6-4c6a-9fe6-0602c08f49ec">
