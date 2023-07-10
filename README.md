@@ -7,7 +7,7 @@ Social Buzz, a content-focused start-up has reached over 500 million active user
 They have scaled quicker than anticipated and need the help of an advisory firm to oversee their scaling process effectively.
 
 ## Key Insights:
- - **16 unique** categories of content available
+ - **16 unique** categories of content available.
  - **"Animals"** is the most popular category having 1897 reactions.
  - **January 2021** was the month with the most posts (1708 posts).
    
